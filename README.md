@@ -17,6 +17,7 @@ Habilidades necessárias:
 - Ter tido experiência com linguagens de manipulação HTML incluindo, Javascript, HTML e CSS; experiência com HTML5, CSS3 e SASS
 - Versionamento de código (Git + Github)
 - Já ter tido contato ou trabalho com times e gestão ágil
+- Já ter trabalhado com Spree (Bonus)
 
 ## Forma de contratação e remuneração
 
