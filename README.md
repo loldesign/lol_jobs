@@ -1,4 +1,4 @@
-Você é apaixonada por **Ruby on Rails/Front End**? 
+Você é apaixonado(a) por **Ruby on Rails/Front End**? 
 Estamos recrutando desenvolvedores que são apaixonadas por aprender e de crescer pela meritocracia.
 
 Somos uma Software House localizada em São Paulo – SP. Nosso foco atual é desenvolver software para StartUP.
