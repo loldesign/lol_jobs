@@ -20,7 +20,7 @@ Habilidades necessárias:
 
 ## Forma de contratação e remuneração
 
-A forma de contratação é Pessoa Jurídica (PJ), e com contratação visando somente projeto atual porém com possibilidade de contratação
+A forma de contratação é Pessoa Jurídica (PJ), e com contratação visando somente projeto atual porém com possibilidade de contratação para outros projetos.
 
 Estamos buscando pessoas com experiência Junior a Pleno, com valores por hora de R$25,00 a R$50,00.
 
