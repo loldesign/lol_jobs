@@ -11,8 +11,6 @@ Sobre o teste
 
 - Desenvolver aplicação web, Rails 4.2* e Ruby 2.3*
 - Hospedar aplicação em repositório público
-- Testar (TDD, BDD) opcional*
-- Publicar aplicação em servidor web opcional*
 - Banco de dados Postgres ou MongoDB
 
 > **Requisitos:**
@@ -32,6 +30,7 @@ Sobre o teste
 > - AngularJS
 > - Testes automatizados
 > - Interface amigável
+> - Publicar aplicação em servidor web
 
 
 #### <i class="icon-folder-open"></i> Prazo
