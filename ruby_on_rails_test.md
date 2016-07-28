@@ -6,31 +6,31 @@ O objetivo desse teste é avaliar seus conhecimentos em **Ruby on Rails** e **An
 
 ----------
 
-
 Sobre o teste
 -------------
 
-Desenvolver aplicação web, SPA, Rails 4.2*, Ruby 2.3* e AngularJS
-Hospedar aplicação em repositório público
-Testar (TDD, BDD) opcional*
-Publicar aplicação em servidor web opcional*
-Banco de dados Postgres ou MongoDB
+- Desenvolver aplicação web, Rails 4.2* e Ruby 2.3*
+- Hospedar aplicação em repositório público
+- Testar (TDD, BDD) opcional*
+- Publicar aplicação em servidor web opcional*
+- Banco de dados Postgres ou MongoDB
 
 > **Requisitos:**
 
 > - Desenvolver uma aplicação bloco de anotações.
-> - As notas devem ter informações de quantas vezes foram lidas (Visualizadas).
 > - As notas devem ter informações de quando foi visualizada a primeira vez.
-> - As notas devem ter status (ativa, inativa e rascunho).
 > - Deve ser possível efetuar busca pelas notas
-> - Notas podem ser públicas ou privadas
+
 
 #### <i class="icon-file"></i> Diferenciais
 
-Utilizar ElasticSearch
-Utilizar Banco de dados não relacionais
-Testes automatizados
-Interface amigável
+> - As notas devem ter informações de quantas vezes foram lidas (Visualizadas).
+> - Notas podem ser públicas ou privadas
+> - As notas devem ter status (ativa, inativa e rascunho).
+> - Utilizar ElasticSearch
+> - Utilizar Banco de dados não relacionais
+> - Testes automatizados
+> - Interface amigável
 
 
 #### <i class="icon-folder-open"></i> Prazo
