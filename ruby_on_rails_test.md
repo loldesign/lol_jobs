@@ -2,7 +2,7 @@ LolDesign Ruby on Rails Test!
 ===================
 
 
-O objetivo desse teste é avaliar seus conhecimentos em **Ruby on Rails/Angular/FrontEnd**. 
+O objetivo desse teste é avaliar seus conhecimentos em **Ruby on Rails** e **AngularJS** 
 
 ----------
 
