@@ -13,7 +13,8 @@ Os interessados devem ter mínimo de 3 anos de experiência com Desenvolvimento 
 
 Habilidades necessárias:
 
-- Básico de conhecimento em Ruby On Rails.
+- Conhecimento em Ruby On Rails.
+- Rspec e Cucumber
 - Ter tido experiência com linguagens de manipulação HTML incluindo, Javascript, HTML e CSS; experiência com HTML5, CSS3 e SASS
 - Versionamento de código (Git + Github)
 - Já ter tido contato ou trabalho com times e gestão ágil
