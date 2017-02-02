@@ -33,4 +33,4 @@ Estamos buscando pessoas com experiência Junior a Pleno, com valores por hora d
 
 Interessado faça um pull request com CV e dados de contato.
 
-ou envie e-mail para contato@loldesign.com.br
+ou envie e-mail para paulo@loldesign.com.br
