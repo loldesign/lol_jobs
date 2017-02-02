@@ -1,4 +1,4 @@
-Você é apaixonado(a) por **Ruby on Rails/Front End**? 
+Você é apaixonado(a) por **Ruby on Rails** e também se aventura como **Front End**?
 Estamos recrutando desenvolvedores que são apaixonadas por aprender e de crescer pela meritocracia.
 
 Somos uma Software House localizada em São Paulo – SP. Nosso foco atual é desenvolver software para StartUP.
@@ -9,15 +9,16 @@ Somos uma Software House localizada em São Paulo – SP. Nosso foco atual é de
 Utilizamos Ruby(on Rails) como padrão para novos Projetos. Porém não nos limitamos somente à ele.
 Temos projetos escritos em Node, Go, PHP e outros.
 
-Os interessados devem ter mínio de 1 anos de experiência com Desenvolvimento Web com foco em Front End.
+Os interessados devem ter mínimo de 3 anos de experiência com Desenvolvimento Web.
 
 Habilidades necessárias:
 
-- Básico de conhecimento em RubyOnRails.
+- Básico de conhecimento em Ruby On Rails.
 - Ter tido experiência com linguagens de manipulação HTML incluindo, Javascript, HTML e CSS; experiência com HTML5, CSS3 e SASS
 - Versionamento de código (Git + Github)
 - Já ter tido contato ou trabalho com times e gestão ágil
 - Já ter trabalhado com Spree (Bonus)
+- Já ter trabalhado com análise de dados
 
 ## Forma de contratação e remuneração
 
