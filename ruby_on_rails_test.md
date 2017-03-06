@@ -9,7 +9,7 @@ O objetivo desse teste é avaliar seus conhecimentos em **Ruby on Rails** e **An
 Sobre o teste
 -------------
 
-- Desenvolver aplicação web, Rails 4.2* e Ruby 2.3*
+- Desenvolver aplicação web, Rails 5.0* e Ruby 2.3*
 - Hospedar aplicação em repositório público
 - Banco de dados Postgres ou MongoDB
 
@@ -35,6 +35,6 @@ Sobre o teste
 
 #### <i class="icon-folder-open"></i> Prazo
 
-Acreditamos que é possível realizar esse teste em uma semana, porém se não for possível concluir a mesma, envie-nos o mesmo assim o teste (avaliaremos a qualidade de código como critério primário).
+Acreditamos que é possível realizar esse teste em 7, porém se não for possível concluir a mesma, envie-nos o mesmo assim o teste (avaliaremos a qualidade de código como critério primário).
 
     
