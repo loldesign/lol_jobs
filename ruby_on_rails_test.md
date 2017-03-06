@@ -35,6 +35,6 @@ Sobre o teste
 
 #### <i class="icon-folder-open"></i> Prazo
 
-Acreditamos que é possível realizar esse teste em 7, porém se não for possível concluir a mesma, envie-nos o mesmo assim o teste (avaliaremos a qualidade de código como critério primário).
+Acreditamos que é possível realizar esse teste em 7(sete) dias, porém se não for possível concluir a mesma, envie-nos o mesmo assim o teste (avaliaremos a qualidade de código como critério primário).
 
     
