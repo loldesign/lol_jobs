@@ -12,6 +12,7 @@ Sobre o teste
 - Desenvolver aplicação web, Rails 5.0* e Ruby 2.3*
 - Hospedar aplicação em repositório público
 - Banco de dados Postgres ou MongoDB
+- Aplicação SPA utilizando AngularJS 2
 
 > **Requisitos:**
 
@@ -27,7 +28,6 @@ Sobre o teste
 > - As notas devem ter status (ativa, inativa e rascunho).
 > - Utilizar ElasticSearch
 > - Utilizar Banco de dados não relacionais
-> - AngularJS 2
 > - Testes automatizados
 > - Interface amigável
 > - Publicar aplicação em servidor web
