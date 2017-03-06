@@ -27,7 +27,7 @@ Sobre o teste
 > - As notas devem ter status (ativa, inativa e rascunho).
 > - Utilizar ElasticSearch
 > - Utilizar Banco de dados não relacionais
-> - AngularJS
+> - AngularJS 2
 > - Testes automatizados
 > - Interface amigável
 > - Publicar aplicação em servidor web
