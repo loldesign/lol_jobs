@@ -12,6 +12,7 @@ Sobre o teste
 - Desenvolver aplicação web, Angular JS 2
 - Hospedar aplicação em repositório público
 - A aplicação pode "mockar" as infos
+- Se possível utilizar algo com Rxjs
 
 > **Requisitos:**
 
